@@ -1,0 +1,17 @@
+{
+  "name": "icbsc-wechat-test",
+  "version": "1.0.0",
+  "description": "# 进入小程序目录，安装依赖包 ``` cd icbsc-wechat-test npm  init npm install --save icbsc.js npm install --save buffer npm install --save icbsc-text-encoding.js npm install --save icbsc-fetch.js ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.4.3",
+    "icbsc-fetch.js": "0.0.4",
+    "icbsc-text-encoding.js": "^0.7.1",
+    "icbsc.js": "^1.0.8"
+  }
+}
